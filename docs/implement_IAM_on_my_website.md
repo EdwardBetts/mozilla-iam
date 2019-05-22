@@ -11,7 +11,7 @@ You will have to choose an authentication protocol (ordered by preference): OIDC
 
 The most common for open source apps and recent commercial applications is OIDC, while SAML is more common for enterprise-style applications or older applications. In some cases only OAuth2 is supported, and Windows-based services sometimes support WS Federation. Your mileage may vary.
 
-In all cases you will need to [https://mana.mozilla.org/wiki/display/SECURITY/SSO+Request+Form](register with us). You will get a set of credentials in exchange, to setup your application.
+In all cases you will need to (https://mana.mozilla.org/wiki/display/SECURITY/SSO+Request+Form)[register with us]. You will get a set of credentials in exchange, to setup your application.
 
 #### Access proxies / Reverse proxies
 
